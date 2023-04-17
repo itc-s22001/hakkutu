@@ -1,1 +1,2 @@
 ohayou
+commit コマンド説明

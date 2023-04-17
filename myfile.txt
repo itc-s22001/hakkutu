@@ -1,2 +1,3 @@
 ohayou
 commit コマンド説明
+pull リモートリポジトリの内容を取得する
